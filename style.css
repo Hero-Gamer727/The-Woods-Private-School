@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: white;
+}
+#marqueeStyle{
+    background-color: blue;
+    height: 50px;
+    color:white;
+    font-size: 25px;
+}
