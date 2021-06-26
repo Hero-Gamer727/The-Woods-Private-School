@@ -8,3 +8,21 @@ body{
     color:white;
     font-size: 25px;
 }
+.movie_head{
+ font-size: 24px;
+    padding:10px 20px;
+        border-radius:10px;
+    width:100%;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float:right;
+}
+.movie_head img{
+    height: 300px;
+    width:300px;
+}
+.movie_text span{
+    color:orange;
+}
